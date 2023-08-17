@@ -1,0 +1,9 @@
+.vs
+packages
+debug.log
+testApplication_house/bin
+testApplication_house/bin/obj
+testApplication_house/bin/Files
+testApplication_house/bin/Logs
+testApplication_house/bin/Properties/PublishProfiles
+testApplication_house/bin/App_Data/Logs
